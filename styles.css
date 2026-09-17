@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+h1, header {
+    font-family: 'Monoton', Arial, sans-serif;
+}
+
+body {
+    background-color: beige;
+}
+
+p {
+    font-size: 16px;
+}
+
+ol {
+    color: orange;
+}
+
+em {
+    font-weight: bold;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+img {
+    border-radius: 25px;
+}
+
+.subheaders {
+    color: blue;
+}
+
+#intro-text {
+    font-size: 18px;
+}
+
+#application-process {
+    border: 2px solid black;
+    width: auto;
+    height: auto;
+    margin: 20px;
+    padding: 20px;
+}
